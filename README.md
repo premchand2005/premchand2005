@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **frontent development**
 
-- 👨‍💻 All of my projects are available at [https://premchand2005.github.io/My_Portfolio/](https://premchand2005.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://premchand2005.github.io/My_Portfolio/](https://premchand2005.github.io/complete_potfolio/)
 
 - 📫 How to reach me **premchandkumarsahu2005@gmail.com**
 
