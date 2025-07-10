@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://premchand2005.github.io/My_Portfolio/](https://premchand2005.github.io/first_potfolio/)
 
+- 👨‍💻 All of my projects are available at [https://premchand2005.github.io/My_Portfolio/](https://premchand2005.github.io/tripwithprem_project/)
+
 - 👨‍💻 All of my projects are available at [https://premchand2005.github.io/My_Portfolio/](https://premchand2005.github.io/photography/)
 
 - 📫 How to reach me **premchandkumarsahu2005@gmail.com**
